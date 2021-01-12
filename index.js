@@ -31,9 +31,9 @@ const nsfw = JSON.parse(fs.readFileSync('./src/nsfw.json'))
 const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Ini Rizki\n' 
-            + 'ORG: OWNER RR_018;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6285788555068:+62 857-8855-5068\n' 
+            + 'FN:Ini Arif\n' 
+            + 'ORG: OWNER Lynx;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6285376980664:+62 853-7698-0664\n' 
             + 'END:VCARD' 
 prefix = '#'
 blocked = []          
@@ -47,8 +47,8 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 const config = {
     XBOT: '❉AmpibI❉', 
-    instagram: 'https://instagram.com/affis_saputro123', 
-    nomer: 'wa.me/6282334297175',
+    instagram: 'https://www.instagram.com/ks.berkarya_02', 
+    nomer: 'wa.me/6285376980664',
     youtube: 'https://youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg', 
     whatsapp: 'Comming soon', 
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
