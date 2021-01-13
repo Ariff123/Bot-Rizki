@@ -31,7 +31,7 @@ const nsfw = JSON.parse(fs.readFileSync('./src/nsfw.json'))
 const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Ini Ariff\n' 
+            + 'FN:Ini Arif\n' 
             + 'ORG: OWNER LYNX_BOT;\n' 
             + 'TEL;type=CELL;type=VOICE;waid=6285376980664:+62 853-7698-0664\n' 
             + 'END:VCARD' 
