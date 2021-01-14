@@ -23,7 +23,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/rizkiramadhan4617/RR018-BOT
+> git clone https://github.com/Ariff123/Bot-Rizki
 ```
 
 ## Install the dependencies:
@@ -102,4 +102,4 @@ Ket: Aktiv 24 jam
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
 * [`Alfbot`](https://github.com/alfiansx/alfbot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Super_Mario.gif" alt="Super_Mario" width="600" />
-
+![LYNX github stats](https://github-readme-stats.vercel.app/api?username=rizkiramadhan4617&show_icons=true&theme=tokyonight&show_owner=true)
