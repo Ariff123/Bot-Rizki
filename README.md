@@ -102,4 +102,4 @@ Ket: Aktiv 24 jam
 * [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
 * [`Alfbot`](https://github.com/alfiansx/alfbot)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Super_Mario.gif" alt="Super_Mario" width="600" />
-![LYNX github stats](https://github-readme-stats.vercel.app/api?username=rizkiramadhan4617&show_icons=true&theme=tokyonight&show_owner=true)
+![LYNX github stats](https://github-readme-stats.vercel.app/api?username=Ariff123&show_icons=true&theme=tokyonight&show_owner=true)
